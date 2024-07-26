@@ -1,3 +1,8 @@
+## Unreleased
+
+- Added `WrappedProcessor`
+  * TODO
+
 ## 0.13.0 - (2024-05-XX)
 
 * Fixed converting 2D geos::Geometry to ewkt
